@@ -573,9 +573,9 @@ transform: rotate(0deg);
   pointer-events: none; /* Don’t block clicks */
 
   background: none;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/191814/flake1.png"),
-    url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/191814/flake2.png"),
-    url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/191814/flake3.png");
+  background-image: url("balls/flake1.png"),
+    url("balls/flake2.png"),
+    url("balls/flake3.png");
   background-repeat: repeat;
   background-size: 600px 600px;
 
